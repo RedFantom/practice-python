@@ -9,4 +9,3 @@ elif(number % 2 == 1):
     print "Your number was odd"
 else:
     print "An error has occurred"
-    
